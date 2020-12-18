@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\GrafyZad2\GrafyZad2\bin\Debug\netcoreapp3.1\GrafyZad2.exe
+C:\Users\ASUS\source\repos\GrafyZad2\GrafyZad2\bin\Debug\netcoreapp3.1\GrafyZad2.deps.json
+C:\Users\ASUS\source\repos\GrafyZad2\GrafyZad2\bin\Debug\netcoreapp3.1\GrafyZad2.runtimeconfig.json
+C:\Users\ASUS\source\repos\GrafyZad2\GrafyZad2\bin\Debug\netcoreapp3.1\GrafyZad2.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\GrafyZad2\GrafyZad2\bin\Debug\netcoreapp3.1\GrafyZad2.dll
+C:\Users\ASUS\source\repos\GrafyZad2\GrafyZad2\bin\Debug\netcoreapp3.1\GrafyZad2.pdb
+C:\Users\ASUS\source\repos\GrafyZad2\GrafyZad2\obj\Debug\netcoreapp3.1\GrafyZad2.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\GrafyZad2\GrafyZad2\obj\Debug\netcoreapp3.1\GrafyZad2.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\GrafyZad2\GrafyZad2\obj\Debug\netcoreapp3.1\GrafyZad2.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\GrafyZad2\GrafyZad2\obj\Debug\netcoreapp3.1\GrafyZad2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\GrafyZad2\GrafyZad2\obj\Debug\netcoreapp3.1\GrafyZad2.dll
+C:\Users\ASUS\source\repos\GrafyZad2\GrafyZad2\obj\Debug\netcoreapp3.1\GrafyZad2.pdb
+C:\Users\ASUS\source\repos\GrafyZad2\GrafyZad2\obj\Debug\netcoreapp3.1\GrafyZad2.genruntimeconfig.cache
